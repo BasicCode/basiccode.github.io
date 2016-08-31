@@ -1,0 +1,23 @@
+﻿
+body {
+	background-image: url(images/background.jpg);
+	background-repeat: no-repeat;
+	}
+
+.logo-image {
+	border-radius: 50px;
+	width: 300px;
+	display: block;
+	margin: auto;
+	margin-top: -80px;}
+	
+.container {
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto; }
+
+.container-main {
+	background: #fff;
+	margin-top: 80px;
+	padding: 0 30px 30px 30px; }
