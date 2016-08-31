@@ -15,19 +15,23 @@ body {
 h2 {
 	color:gray;
 	font-size: medium;
+	font-family: "arial";
 }
 
 h1 {
+	font-family: "courier new";
+	font-weight: bold;
 	color: #5ea8d7;
 }
 
 p {
 	color:gray;
+	font-family: "arial";
 }
 
 .logo-image {
-	height: 50px;
-	width: 50px;
+	height: 30px;
+	width: 30px;
 	margin: 0px;
 	float: left;
 }
